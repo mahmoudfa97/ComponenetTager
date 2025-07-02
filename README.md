@@ -58,6 +58,10 @@ clone and import it in your SWC config
 
 - Fully static: zero runtime overhead
   
+Preview:
+![image](https://github.com/user-attachments/assets/1553ac40-a002-4475-9aed-9ca67792745d)
+
+
 Contributing:
 - Got ideas or use cases? PRs and issues welcome!
 
