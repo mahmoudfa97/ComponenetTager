@@ -54,8 +54,6 @@ Use Cases:
 - Fully static: zero runtime overhead
   
 Contributing:
-Got ideas or use cases? PRs and issues welcome!
+- Got ideas or use cases? PRs and issues welcome!
 
-👤 Author
-Built by Mahmoud Faour
-Let's connect on LinkedIn
+
