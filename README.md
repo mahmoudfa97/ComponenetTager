@@ -46,6 +46,11 @@ Use Cases:
 
 - In-browser component traceability (inspect-to-source)
 
+How to use:
+clone and import it in your SWC config
+![image](https://github.com/user-attachments/assets/606e7023-a86c-4805-a3ba-a4c4444034ed)
+
+
  Tech Stack"
 - Written in TypeScript
 
